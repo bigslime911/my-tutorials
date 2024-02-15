@@ -13,6 +13,6 @@ const studentDetails ={
         programming : 'A',
         webDevelopment : 'B+'
     },
-
+    department : 'Department of Computer Science',
 }
 console.log(studentDetails.courses)
